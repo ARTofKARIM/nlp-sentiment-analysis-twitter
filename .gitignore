@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+data/*.csv
+models/*.h5
+models/*.pkl
+.ipynb_checkpoints/
+venv/
+nltk_data/
